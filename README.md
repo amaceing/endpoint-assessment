@@ -53,6 +53,12 @@ You should see the installed Go version.
 ### Download and Extract the Project
 Download the `endpoint-assessment.zip` file. Extract the contents of the zip file to a directory on your local machine.
 
+### Clone git repository
+
+```
+git clone https://github.com/amaceing/endpoint-assessment.git
+```
+
 ## Usage
 
 ### Run the Program
